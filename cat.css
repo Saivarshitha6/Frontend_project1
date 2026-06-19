@@ -1,0 +1,26 @@
+.main{
+background-color:black;
+}
+.fullcat{
+    background-size:cover;
+}
+.bulbon{
+    background-size:cover;
+}
+.p1{
+    color:black;
+    font-size:28px;
+}
+.b1{
+    background-color:grey;
+    margin:10px;
+}
+.b2{
+    background-color:red;
+}
+.container{
+    background-color:#d1dced;
+    height:130px;
+    width:30x;
+    padding:16px;
+}
